@@ -21,8 +21,8 @@
 
 
 
-![JonathanPinehiro19's Stats](https://github-readme-stats.vercel.app/api?username=JonathanPinehiro19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![JonathanPinehiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanPinehiro19&theme=vue-dark&hide_border=true)
+![JonathanPinehiro19's Stats](https://github-readme-stats.vercel.app/api?username=JonathanPinehiro19&theme=vue-white&show_icons=true&hide_border=true&count_private=true)
+![JonathanPinehiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanPinehiro19&theme=vue-white&hide_border=true)
 
 
 ![JonathanPinehiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPinehiro19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
