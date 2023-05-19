@@ -1,7 +1,7 @@
 <h2>Olá meu nome é Jonathan!</h2>
 
 
-- 👀 Desejo muito trabalhar como programador júnior.
+- 👀 Desejo trabalhar como programador júnior.
 - 🌱 Estou atualmente estudando JavaScript e Java.
 - 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 96501-3863 ou envie um E-mail para: jonathanpinehiro.13@gmail.com
 
