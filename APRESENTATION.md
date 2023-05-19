@@ -3,7 +3,7 @@
 - 🌱 Estou atualmente estudando JavaScript e Java.
 - 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 96501-3863 ou envie um E-mail para: jonathanpinehiro.13@gmail.com
 
-<div style="display: inline_block" style="margin-bottom: 4rem;"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -14,10 +14,10 @@
 </div>
 
 
-
+<div>
 ![JonathanPinehiro19's Stats](https://github-readme-stats.vercel.app/api?username=JonathanPinehiro19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JonathanPinehiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanPinehiro19&theme=vue-dark&hide_border=true)
-
+</div>
 
 ![JonathanPinehiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPinehiro19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
