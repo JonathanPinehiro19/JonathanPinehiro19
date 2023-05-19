@@ -1,9 +1,11 @@
 <h2>Olá meu nome é Jonathan!</h2>
+
+
 - 👀 Desejo muito trabalhar como programador júnior.
 - 🌱 Estou atualmente estudando JavaScript e Java.
 - 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 96501-3863 ou envie um E-mail para: jonathanpinehiro.13@gmail.com
 
-<div style="display: inline_block; margin-bottom: 4rem"><br>
+<div style="display: inline_block; margin-bottom: 4rem;"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -12,6 +14,9 @@
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+
+
 
 
 
