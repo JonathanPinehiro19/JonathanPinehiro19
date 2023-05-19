@@ -11,8 +11,10 @@
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+
 
 ![JonathanPinehiro19's Stats](https://github-readme-stats.vercel.app/api?username=JonathanPinehiro19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JonathanPinehiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanPinehiro19&theme=vue-dark&hide_border=true)
