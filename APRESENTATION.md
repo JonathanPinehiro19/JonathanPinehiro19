@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning JavaScript and Java.
 - 💞️ I’m looking to collaborate in the development of applications that bring inovative solutions.
 - 📫 How to reach me ... contact me on Whatsapp +55 21 96501-3863 or send me an e-mail: jonathandevopssenac@gmail.com
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
+Lenguages
+[<img src="https://www.pngwing.com/en/free-png-nxotz" />] 
+[<img src="https://www.pngwing.com/en/free-png-yjemi" />]
+[<img src="https://www.pngwing.com/en/free-png-xgiap" />]
+
  
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JonathanPinehiro19)
