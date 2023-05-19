@@ -4,9 +4,15 @@
 - 💞️ I’m looking to collaborate in the development of applications that bring inovative solutions.
 - 📫 How to reach me ... contact me on Whatsapp +55 21 96501-3863 or send me an e-mail: jonathandevopssenac@gmail.com
 
-[<img src="https://www.pngwing.com/en/free-png-nxotz" />] 
-[<img src="https://www.pngwing.com/en/free-png-yjemi" />]
-[<img src="https://www.pngwing.com/en/free-png-xgiap" />]
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+</div>
 
 ![JonathanPinehiro19's Stats](https://github-readme-stats.vercel.app/api?username=JonathanPinehiro19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JonathanPinehiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanPinehiro19&theme=vue-dark&hide_border=true)
