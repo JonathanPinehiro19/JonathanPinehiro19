@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Jonathan Pinheiro
-- 👀 I’m interested in work as a Junior Dev.
-- 🌱 I’m currently learning JavaScript and Java.
-- 💞️ I’m looking to collaborate in the development of applications that bring inovative solutions.
-- 📫 How to reach me ... contact me on Whatsapp +55 21 96501-3863 or send me an e-mail: jonathandevopssenac@gmail.com
+<h2>Olá meu nome é Jonathan!</h2>
+- 👀 Desejo muito trabalhar como programador júnior.
+- 🌱 Estou atualmente estudando JavaScript e Java.
+- 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 96501-3863 ou envie um E-mail para: jonathanpinehiro.13@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
