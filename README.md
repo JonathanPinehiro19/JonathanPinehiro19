@@ -14,9 +14,6 @@
 </div>
 
 
-![snake gif](https://github.com/JonathanPinehiro19/JonathanPinehiro19/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 
@@ -29,7 +26,11 @@
 ![JonathanPinehiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPinehiro19&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jonathan-pinheiro-a294a1177/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/jonathan_pinheiros?igshid=MzNlNGNkZWQ4Mg==) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100017716937199&mibextid=ZbWKwL)
+
+
+![snake gif](https://github.com/JonathanPinehiro19/JonathanPinehiro19/blob/output/github-contribution-grid-snake.svg)
 <!---
 JonathanPinehiro19/JonathanPinehiro19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
