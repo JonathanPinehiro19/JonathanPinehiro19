@@ -14,10 +14,8 @@
   <img align="center" alt="Jhon-jquery" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
 </div>
 
-<div>
-  
-</div>
 
+<h2></h2>
 
 
 
