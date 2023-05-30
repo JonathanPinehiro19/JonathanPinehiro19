@@ -3,7 +3,7 @@
 
 - 👀 Desejo trabalhar como programador júnior.
 - 🌱 Estou atualmente estudando JavaScript e Java.
-- 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp: <a href="https://api.whatsapp.com/send?phone=5521965013863&text=Olá Jonathan!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> ou envie um E-mail para: jonathandevopssenac@gmail.com
+- 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp: <a align="center" href="https://api.whatsapp.com/send?phone=5521965013863&text=Olá Jonathan!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> ou envie um E-mail para: jonathandevopssenac@gmail.com
 
 <div style="display: inline_block; margin_bottom: 20px; background_color: purpple;"><br>
   <img align="center" alt="Jhon-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
