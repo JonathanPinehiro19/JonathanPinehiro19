@@ -1,7 +1,7 @@
 <h2>Olá meu nome é Jonathan!</h2>
 
 
-- 👀 Desejo trabalhar como programador júnior.
+- 👀 Desejo estar sempre aprimorando minhas habilidades no desenvolvimento de aplicativos.
 - 🌱 Estou atualmente estudando JavaScript e Java.
 
 
