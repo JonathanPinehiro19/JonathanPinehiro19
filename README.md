@@ -4,6 +4,8 @@
 - 👀 I want to be always learning news tecnologies ans skills in softwares development.
 - 🌱 Currently I'm learning JavaScript and Java.
 
+
+
 <h3>Learning:</h3>
 <div style="display: inline_block; margin_bottom: 20px; background_color: purpple;"><br>
   <img align="center" alt="Jhon-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
