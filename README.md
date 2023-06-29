@@ -1,4 +1,4 @@
-<h2>Hello, my name is Jonathan! i'm 19 years old, i live in Rio de Janeiro, Brazil.</h2>
+<h2>Hi, my name is Jonathan! i'm 19 years old, i live in Rio de Janeiro, Brazil.</h2>
 
 
 - 👀 I want to be always learning news tecnologies ans skills in softwares development.
