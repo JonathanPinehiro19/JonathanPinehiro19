@@ -16,7 +16,7 @@
   <img align="center" alt="Jhon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/ionic-original-wordmark.svg">
+  <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg">
   
 </div>
 
