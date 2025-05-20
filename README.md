@@ -2,7 +2,7 @@
 
 
 - 👀 I want to be always learning news tecnologies ans skills in softwares development.
-- 🌱 Currently I'm learning JavaScript and Java.
+- 🌱 Currently I'm creating JavaScript and Java projects.
 
 
 
